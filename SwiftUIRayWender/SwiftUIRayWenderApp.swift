@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+// FIXME: Need to start from chapter 4 page: 107
 @main
 struct SwiftUIRayWenderApp: App {
     var body: some Scene {

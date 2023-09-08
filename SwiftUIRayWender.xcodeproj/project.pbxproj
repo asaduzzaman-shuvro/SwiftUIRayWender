@@ -91,7 +91,6 @@
 		5C00A0FA2AAAFB8500D2A5BD /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				5C5D859B2AA99DE0003B434B /* SwiftUIRayWenderApp.swift */,
 				5C5D859D2AA99DE0003B434B /* ContentView.swift */,
 				5C00A0F22AAAEB1F00D2A5BD /* WelcomeView.swift */,
 				5C00A0F42AAAEB2E00D2A5BD /* ExerciseView.swift */,
@@ -135,6 +134,7 @@
 		5C5D859A2AA99DE0003B434B /* SwiftUIRayWender */ = {
 			isa = PBXGroup;
 			children = (
+				5C5D859B2AA99DE0003B434B /* SwiftUIRayWenderApp.swift */,
 				5C00A0FA2AAAFB8500D2A5BD /* Views */,
 				5C00A0FF2AAB16EB00D2A5BD /* Videos */,
 				5C5D859F2AA99DE1003B434B /* Assets.xcassets */,
