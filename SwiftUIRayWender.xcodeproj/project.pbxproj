@@ -10,6 +10,7 @@
 		5C00A0F32AAAEB1F00D2A5BD /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C00A0F22AAAEB1F00D2A5BD /* WelcomeView.swift */; };
 		5C00A0F52AAAEB2E00D2A5BD /* ExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C00A0F42AAAEB2E00D2A5BD /* ExerciseView.swift */; };
 		5C00A0F82AAAFB2D00D2A5BD /* Videos in Resources */ = {isa = PBXBuildFile; fileRef = 5C00A0F72AAAFB2D00D2A5BD /* Videos */; };
+		5C00A0FC2AAB116B00D2A5BD /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C00A0FB2AAB116B00D2A5BD /* HeaderView.swift */; };
 		5C5D859C2AA99DE0003B434B /* SwiftUIRayWenderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5D859B2AA99DE0003B434B /* SwiftUIRayWenderApp.swift */; };
 		5C5D859E2AA99DE0003B434B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5D859D2AA99DE0003B434B /* ContentView.swift */; };
 		5C5D85A02AA99DE1003B434B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C5D859F2AA99DE1003B434B /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 		5C00A0F22AAAEB1F00D2A5BD /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
 		5C00A0F42AAAEB2E00D2A5BD /* ExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseView.swift; sourceTree = "<group>"; };
 		5C00A0F72AAAFB2D00D2A5BD /* Videos */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Videos; sourceTree = "<group>"; };
+		5C00A0FB2AAB116B00D2A5BD /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		5C5D85982AA99DE0003B434B /* SwiftUIRayWender.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIRayWender.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C5D859B2AA99DE0003B434B /* SwiftUIRayWenderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIRayWenderApp.swift; sourceTree = "<group>"; };
 		5C5D859D2AA99DE0003B434B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				5C5D859D2AA99DE0003B434B /* ContentView.swift */,
 				5C00A0F22AAAEB1F00D2A5BD /* WelcomeView.swift */,
 				5C00A0F42AAAEB2E00D2A5BD /* ExerciseView.swift */,
+				5C00A0FB2AAB116B00D2A5BD /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C00A0FC2AAB116B00D2A5BD /* HeaderView.swift in Sources */,
 				5C00A0F52AAAEB2E00D2A5BD /* ExerciseView.swift in Sources */,
 				5C5D859E2AA99DE0003B434B /* ContentView.swift in Sources */,
 				5C00A0F32AAAEB1F00D2A5BD /* WelcomeView.swift in Sources */,
