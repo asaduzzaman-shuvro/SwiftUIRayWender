@@ -20,7 +20,7 @@ struct ExerciseView: View {
         
         GeometryReader { geometry in
             VStack {
-                HeaderView(exerciseName: "\(exerciseNames[index])")
+                HeaderView(titleText: "\(exerciseNames[index])")
                     .padding(.bottom)
                     .padding(.top)
                 
